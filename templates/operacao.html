@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block title %}{{ titulo }} - Calculadora Web{% endblock %}
+{% block content %}
+<h1>{{ titulo }}</h1>
+<form id="form-calculadora" data-operacao="{{ operacao }}">
+    <label for="numero1">Primeiro número</label>
+    <input id="numero1" name="numero1" type="number" step="any" required>
+    <label for="numero2">Segundo número</label>
+    <input id="numero2" name="numero2" type="number" step="any" required>
+    <button type="submit">Calcular</button>
+</form>
+<p id="resultado" role="status" aria-live="polite"></p>
+{% endblock %}
