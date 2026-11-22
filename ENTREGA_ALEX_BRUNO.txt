@@ -1,28 +1,37 @@
 ENTREGA DO TRABALHO — CALCULADORA WEB
 
-AUTOR: Alex Bruno Braz da Silva
+NOME COMPLETO DO AUTOR:
+Alex Bruno Braz da Silva
 
-REPOSITÓRIO PÚBLICO COM CÓDIGO:
+REPOSITÓRIO PÚBLICO COM O CÓDIGO:
 https://github.com/alexbrunostefane2018/calculadora-web-flask/tree/alex_bruno_braz_da_silva
 
 HISTÓRICO DE COMMITS:
 https://github.com/alexbrunostefane2018/calculadora-web-flask/commits/alex_bruno_braz_da_silva/
 
-README COM NOME COMPLETO:
+README COM NOME COMPLETO DO AUTOR:
 https://github.com/alexbrunostefane2018/calculadora-web-flask/blob/alex_bruno_braz_da_silva/README.md
 
-SITE PREPARADO PARA ACESSO ONLINE (GITHUB PAGES):
+CALCULADORA ONLINE PARA O PROFESSOR:
 https://alexbrunostefane2018.github.io/calculadora-web-flask/
 
 OPERAÇÕES IMPLEMENTADAS:
-- Multiplicação
-- Divisão (com tratamento para divisão por zero)
+- Multiplicação (exemplo: 5 x 4 = 20)
+- Divisão (exemplo: 20 / 5 = 4)
 - Soma
 - Subtração
+- Tratamento de divisão por zero
 
-COMO EXECUTAR A VERSÃO FLASK LOCALMENTE:
+CONFIRMAÇÃO DE FUNCIONAMENTO:
+O GitHub Pages exibe a publicação do site como ativa.
+O responsável pelo projeto confirmou que abriu a calculadora pelo navegador
+e testou as operações de multiplicação e divisão com sucesso.
+
+VERSÃO FLASK PARA EXECUÇÃO LOCAL:
 1. pip install -r requirements.txt
 2. python app.py
-3. Abrir http://127.0.0.1:5000
+3. Abrir http://127.0.0.1:5000 no próprio computador.
 
-OBSERVAÇÃO: O código e os commits foram verificados no GitHub. A disponibilidade do endereço GitHub Pages ainda não foi confirmada por uma verificação externa bem-sucedida.
+OBSERVAÇÃO:
+O site público usa a versão de navegador em docs/index.html.
+A versão Flask também permanece disponível no repositório.
