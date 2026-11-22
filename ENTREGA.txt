@@ -1,9 +1,16 @@
 Autor: Alex Bruno Braz da Silva
 Projeto: Calculadora Web Flask
-Repositório público:
+
+Repositório público com código:
 https://github.com/alexbrunostefane2018/calculadora-web-flask/tree/alex_bruno_braz_da_silva
 
 Histórico de commits:
 https://github.com/alexbrunostefane2018/calculadora-web-flask/commits/alex_bruno_braz_da_silva/
 
-Operações: multiplicação e divisão (também soma e subtração).
+Site para usar a calculadora no navegador (PENDENTE DE ATIVAÇÃO DO GITHUB PAGES):
+https://alexbrunostefane2018.github.io/calculadora-web-flask/
+
+Para ativar: Settings > Pages > Deploy from a branch > alex_bruno_braz_da_silva > /docs > Save.
+Após ativar, confirmar que o site abre e remover o aviso de pendência deste arquivo.
+
+Operações: soma, subtração, multiplicação e divisão.
