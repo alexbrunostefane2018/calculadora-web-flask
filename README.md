@@ -1,22 +1,35 @@
-# Calculadora Web — Python e Flask
+# Calculadora Web — Alex Bruno Braz da Silva
 
 **Autor:** Alex Bruno Braz da Silva
 
-Aplicação web com Soma, Subtração, Multiplicação e Divisão.
+Projeto acadêmico de calculadora web com quatro operações: **Soma, Subtração, Multiplicação e Divisão**.
 
-## Site público (GitHub Pages)
+## Links para avaliação
 
-Endereço após habilitar o GitHub Pages: https://alexbrunostefane2018.github.io/calculadora-web-flask/
+- **Repositório público (código):** https://github.com/alexbrunostefane2018/calculadora-web-flask/tree/alex_bruno_braz_da_silva
+- **Histórico de commits:** https://github.com/alexbrunostefane2018/calculadora-web-flask/commits/alex_bruno_braz_da_silva/
+- **Site preparado no GitHub Pages:** https://alexbrunostefane2018.github.io/calculadora-web-flask/
 
-**A publicação do Pages precisa ser ativada nas configurações do repositório:** Settings → Pages → Deploy from a branch → branch `alex_bruno_braz_da_silva` → pasta `/docs` → Save. O endereço acima não deve ser considerado ativo antes da confirmação do deploy.
+A publicação externa do GitHub Pages ainda precisa ser confirmada por acesso ao site. A versão online está em `docs/index.html` e funciona no navegador usando JavaScript. A versão Python/Flask também está incluída.
 
-A versão online em `docs/index.html` executa as operações diretamente no navegador (JavaScript), sem servidor. A versão Flask continua disponível para execução local.
+## Funcionalidades
 
-## Executar a versão Flask localmente
+- Multiplicação: `5 × 4 = 20`
+- Divisão: `20 ÷ 5 = 4`
+- Soma e subtração
+- Tratamento de divisão por zero
+
+## Executar Flask localmente
+
+No terminal, dentro da pasta do projeto, execute **um comando por vez**:
 
 ```bash
 pip install -r requirements.txt
 python app.py
 ```
 
-Abra http://127.0.0.1:5000 no navegador.
+Abra http://127.0.0.1:5000 no computador onde o Flask está sendo executado.
+
+## Arquivo de entrega
+
+Consulte `ENTREGA_ALEX_BRUNO.txt` para os links do trabalho.
