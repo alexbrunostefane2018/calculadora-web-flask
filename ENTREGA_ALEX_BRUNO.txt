@@ -1,0 +1,28 @@
+ENTREGA DO TRABALHO — CALCULADORA WEB
+
+AUTOR: Alex Bruno Braz da Silva
+
+REPOSITÓRIO PÚBLICO COM CÓDIGO:
+https://github.com/alexbrunostefane2018/calculadora-web-flask/tree/alex_bruno_braz_da_silva
+
+HISTÓRICO DE COMMITS:
+https://github.com/alexbrunostefane2018/calculadora-web-flask/commits/alex_bruno_braz_da_silva/
+
+README COM NOME COMPLETO:
+https://github.com/alexbrunostefane2018/calculadora-web-flask/blob/alex_bruno_braz_da_silva/README.md
+
+SITE PREPARADO PARA ACESSO ONLINE (GITHUB PAGES):
+https://alexbrunostefane2018.github.io/calculadora-web-flask/
+
+OPERAÇÕES IMPLEMENTADAS:
+- Multiplicação
+- Divisão (com tratamento para divisão por zero)
+- Soma
+- Subtração
+
+COMO EXECUTAR A VERSÃO FLASK LOCALMENTE:
+1. pip install -r requirements.txt
+2. python app.py
+3. Abrir http://127.0.0.1:5000
+
+OBSERVAÇÃO: O código e os commits foram verificados no GitHub. A disponibilidade do endereço GitHub Pages ainda não foi confirmada por uma verificação externa bem-sucedida.
