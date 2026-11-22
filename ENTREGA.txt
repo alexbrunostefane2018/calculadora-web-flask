@@ -1,0 +1,9 @@
+Autor: Alex Bruno Braz da Silva
+Projeto: Calculadora Web Flask
+Repositório público:
+https://github.com/alexbrunostefane2018/calculadora-web-flask/tree/alex_bruno_braz_da_silva
+
+Histórico de commits:
+https://github.com/alexbrunostefane2018/calculadora-web-flask/commits/alex_bruno_braz_da_silva/
+
+Operações: multiplicação e divisão (também soma e subtração).
